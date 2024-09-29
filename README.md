@@ -82,7 +82,7 @@
 <details open>
   <summary><h1>📜 Certificates</h1></summary>
 
-> [![GitHub Repo](https://img.shields.io/badge/repo-https://github.com/rhatiro/certificados-transparent?&logo=github&logoColor=white)]()
+> [![GitHub Repo](https://img.shields.io/badge/repo-https://github.com/marciolws/certificados-transparent?&logo=github&logoColor=white)]()
 
 </details>
 
@@ -95,9 +95,9 @@
 <details open>
   <summary><h1>📩 Contact</h1></summary>
 
-- [![iCloud Badge](https://img.shields.io/badge/roberto.nishiyama@yahoo.com.br-410093?logo=yahoo)](mailto:marciodsilva@icloud.com)
-- [![Linkedin Badge](https://img.shields.io/badge/Roberto%20Hatiro-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-d-silva/)
-- [![GitHub Badge](https://img.shields.io/badge/rhatiro-black?logo=github&logoColor=white)](https://github.com/marciolws)
+- [![iCloud Badge](https://img.shields.io/badge/marciodsilva@icloud.com-410093?logo=yahoo)](mailto:marciodsilva@icloud.com)
+- [![Linkedin Badge](https://img.shields.io/badge/Marcio%20SILVA-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-d-silva/)
+- [![GitHub Badge](https://img.shields.io/badge/marciolws-black?logo=github&logoColor=white)](https://github.com/marciolws)
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)]()
 [![Sololearn Badge](https://img.shields.io/badge/Sololearn-3a464b?logo=Sololearn&logoColor=white)]()
