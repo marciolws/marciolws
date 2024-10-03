@@ -81,8 +81,7 @@ Knowledge in processing, manipulating and visualizing data using Python, SQL and
 - [![iCloud Badge](https://img.shields.io/badge/marciodsilva@icloud.com-410093?logo=yahoo)](mailto:marciodsilva@icloud.com)
 - [![Linkedin Badge](https://img.shields.io/badge/Marcio%20Silva-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-d-silva/)
 - [![GitHub Badge](https://img.shields.io/badge/marciolws-black?logo=github&logoColor=white)](https://github.com/marciolws)
-
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/marcioslewis)
+- [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/marcioslewis)
 
 #
 
