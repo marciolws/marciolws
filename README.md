@@ -32,32 +32,14 @@
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white)]()
 <!-- [![SciPy](https://img.shields.io/badge/SciPy-654FF0?logo=SciPy&logoColor=white)]() -->
 
-[![PyPI](https://img.shields.io/badge/pypi-3775A9?logo=pypi&logoColor=white)]()
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)]()
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white)]()
-[![Render](https://img.shields.io/badge/Render-46E3B7?&logo=render&logoColor=white)]()
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)]()
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)]()
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)]()
 
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)]()
-[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)]()
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?logo=PyCharm&logoColor=white)]()
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)]()
 <!-- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)]() -->
-
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)]()
-[![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)]()
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)]()
-
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)]()
-[![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)]()
-[![NextJS](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white)]()
 
 [![MacOS](https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
