@@ -68,8 +68,6 @@
 
 </details>
 
-https://github.com/marciolws/certificados
-
 <!--  -->
 <!--  -->
 ---
