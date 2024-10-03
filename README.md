@@ -64,9 +64,11 @@
 <details open>
   <summary><h1>📜 Certificates</h1></summary>
 
-> [![GitHub Repo](https://img.shields.io/badge/repo-https://github.com/marciolws/certificados-transparent?&logo=github&logoColor=white)]()
+> [![GitHub Repo](https://img.shields.io/badge/repo-https://github.com/marciolws/certificados-transparent?&logo=github&logoColor=white)](https://github.com/marciolws/certificados)
 
 </details>
+
+https://github.com/marciolws/certificados
 
 <!--  -->
 <!--  -->
