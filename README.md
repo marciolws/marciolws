@@ -9,7 +9,8 @@
 
 | EN | PT |
 | --- | --- |
-
+| Professional with an evolving career in the data area. | Profissional com evolução de carreira na área de dados. |
+Knowledge in processing, manipulating and visualizing data using Python, SQL and libraries used for Data Science, as well as familiarity with development environments such as the Anaconda Platform and Jupyter Notebook. | Conhecimento em tratamento, manipulação e visualização de dados com utilização de linguagens Python, SQL e bibliotecas utilizadas para Data Science, além de familiarizar com ambientes de desenvolvimento como a Plataforma Anaconda e Jupyter Notebook.
 
 </details>
 
