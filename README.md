@@ -81,12 +81,11 @@
 - [![Linkedin Badge](https://img.shields.io/badge/Marcio%20Silva-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-d-silva/)
 - [![GitHub Badge](https://img.shields.io/badge/marciolws-black?logo=github&logoColor=white)](https://github.com/marciolws)
 
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)]()
-[![Sololearn Badge](https://img.shields.io/badge/Sololearn-3a464b?logo=Sololearn&logoColor=white)]()
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/marcioslewis)
 
 #
 
-[![PDF](https://img.shields.io/badge/PDF-Resume%20(CV)-transparent?&logo=adobe-acrobat-reader&logoColor=white)]()
+[![PDF](https://img.shields.io/badge/PDF-Resume%20(CV)-transparent?&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/marciolws/marciolws/blob/ddf4e5661d62f1eaf51848f175e4b6edb660dbe0/datacv/Cientista%20de%20Dados/Marcio%20CV.pdf)
   
 </details>
 
